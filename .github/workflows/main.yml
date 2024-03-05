@@ -1,0 +1,11 @@
+name:bubba
+
+on:[push]
+
+jobs:
+ bren2:
+  runs-on:ubuntu:latest
+   steps:
+   name:checkout
+   uses:actions/checkout@v2
+   
