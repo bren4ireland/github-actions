@@ -1,11 +1,11 @@
-name:bubba
+name: bubba
 
-on:[push]
+on:
+  push:
 
 jobs:
- bren2:
-  runs-on:ubuntu:latest
-   steps:
-   name:checkout
-   uses:actions/checkout@v2
-   
+  bren2:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
