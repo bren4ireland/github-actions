@@ -7,7 +7,7 @@ jobs:
   bren2:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
+      - name: checkout brens
         uses: actions/checkout@v2
       - name: upload-artifact
         uses: actions/upload-artifact@v4.3.1
