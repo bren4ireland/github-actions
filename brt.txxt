@@ -1,0 +1,62 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5E4F-0FB8
+
+ Directory of C:\Users\sophi
+
+04/12/2024  09:28 PM    <DIR>          .
+02/26/2024  11:13 AM    <DIR>          ..
+04/03/2024  07:50 AM    <DIR>          .azd
+04/04/2024  08:16 PM    <DIR>          .azure
+04/02/2024  09:15 PM                62 .bash_history
+04/09/2024  09:14 PM    <DIR>          .config
+04/12/2024  08:25 PM    <DIR>          .docker
+02/28/2024  09:18 PM               601 .dockerignore
+02/23/2024  09:28 PM    <DIR>          .dotnet
+02/23/2024  03:19 PM               312 .gitconfig
+03/05/2024  09:50 PM    <DIR>          .idlerc
+02/25/2024  06:13 PM    <DIR>          .ipython
+04/12/2024  08:13 PM    <DIR>          .kube
+04/03/2024  10:29 AM                20 .lesshst
+03/01/2024  12:59 PM    <DIR>          .matplotlib
+02/23/2024  01:55 PM    <DIR>          .minikube
+02/29/2024  05:15 PM    <DIR>          .ms-ad
+02/24/2024  01:58 PM    <DIR>          .nuget
+02/23/2024  01:43 PM    <DIR>          .redhat
+02/23/2024  09:18 PM    <DIR>          .templateengine
+03/12/2024  05:07 PM    <DIR>          .terraform
+03/13/2024  09:00 PM             2,204 .terraform.lock.hcl
+02/23/2024  03:09 PM    <DIR>          .vs-kubernetes
+04/12/2024  09:22 PM    <DIR>          .vscode
+09/17/2021  01:47 PM    <DIR>          3D Objects
+03/27/2024  04:26 PM               546 bb
+03/28/2024  02:47 PM               719 bbb.py
+04/12/2024  09:28 PM                 0 brt.txxt
+03/28/2024  03:00 PM             2,415 class.py
+02/28/2024  09:18 PM             1,662 compose.yaml
+04/09/2024  09:14 PM    <DIR>          Contacts
+04/12/2024  09:22 PM               412 desktop.ini
+02/28/2024  09:18 PM             2,663 Dockerfile
+02/25/2024  05:58 PM    <DIR>          Documents
+04/12/2024  03:14 PM    <DIR>          Downloads
+04/12/2024  09:25 PM                 0 example.txt
+02/02/2023  11:07 AM    <DIR>          Favorites
+02/29/2024  11:14 AM    <DIR>          github actions
+04/12/2024  08:43 PM                 0 hostname
+04/12/2024  08:43 PM                 0 hosts
+03/12/2024  05:13 PM             5,669 kubeconfig.yaml
+02/02/2023  11:07 AM    <DIR>          Links
+04/12/2024  09:22 PM               157 main.tf
+02/02/2023  11:07 AM    <DIR>          Music
+04/12/2024  08:55 AM    <DIR>          OneDrive
+02/28/2024  09:18 PM               954 README.Docker.md
+03/28/2024  02:56 PM                22 requirements.txt
+04/12/2024  08:43 PM                 0 resolv.conf
+02/02/2023  11:07 AM    <DIR>          Saved Games
+02/02/2023  11:07 AM    <DIR>          Searches
+03/09/2024  09:27 PM    <DIR>          terraform.tfstate.d
+03/13/2024  08:57 PM                23 terraform.tfvars
+03/09/2024  09:41 PM    <DIR>          terraformapp
+03/13/2024  08:55 PM                44 variables.tf
+02/02/2023  11:07 AM    <DIR>          Videos
+              22 File(s)         18,485 bytes
+              33 Dir(s)  129,229,021,184 bytes free
